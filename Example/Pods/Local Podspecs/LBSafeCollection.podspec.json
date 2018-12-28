@@ -1,0 +1,22 @@
+{
+  "name": "LBSafeCollection",
+  "version": "0.1.0",
+  "summary": "A short description of LBSafeCollection.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lanbo_zhang@hotmail.com/LBSafeCollection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lanbo_zhang@hotmail.com": "lanbo_zhang@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lanbo_zhang@hotmail.com/LBSafeCollection.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LBSafeCollection/Classes/**/*"
+}

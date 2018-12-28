@@ -1,0 +1,16 @@
+PODS:
+  - LBSafeCollection (0.1.0)
+
+DEPENDENCIES:
+  - LBSafeCollection (from `../`)
+
+EXTERNAL SOURCES:
+  LBSafeCollection:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBSafeCollection: 21712fa8a948316538ccf9d73017984cd0d4015f
+
+PODFILE CHECKSUM: 4c8f0d6d0e6c3ecebcaebaec326218121e080325
+
+COCOAPODS: 1.6.0.beta.2

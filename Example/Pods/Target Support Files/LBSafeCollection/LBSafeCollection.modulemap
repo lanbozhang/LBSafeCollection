@@ -1,0 +1,6 @@
+framework module LBSafeCollection {
+  umbrella header "LBSafeCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}

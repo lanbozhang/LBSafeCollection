@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LBSafeCollection_Example' do
+  pod 'LBSafeCollection', :path => '../'
+
+  target 'LBSafeCollection_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
